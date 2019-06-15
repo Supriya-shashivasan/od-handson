@@ -1,3 +1,3 @@
 # Open source day handson
- ``` git status
+ ``` git status ```
  ### Supriya
